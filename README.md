@@ -81,4 +81,4 @@ Jupyter Lab上で「ai_model_opt_quant_openvino」フォルダーに入り、そ
 ## License / ライセンス
 このプロジェクトは MITライセンスです。
 ## Acknowledgments / 謝辞
-なお、本アプリケーションは[こちら](https://github.com/G21TKA01/Drone_Segmentation)をベースにアレンジを加えたものです。作者である[Maiko007](https://github.com/G21TKA01)には事前に了承を取ったうえで使用しております。改めまして、作者の二人には素晴らしいアプリケーションを提供いただいたことに感謝いたします。
+なお、本アプリケーションは[こちら](https://github.com/G21TKA01/Drone_Segmentation)をベースにアレンジを加えたものです。作者である[G21TKA01](https://github.com/G21TKA01)には事前に了承を取ったうえで使用しております。改めまして、作者の二人には素晴らしいアプリケーションを提供いただいたことに感謝いたします。
